@@ -2,5 +2,5 @@
 Design selective peptides targeting SH2 domains
 
 ## Contributors
-- Ivy Zhang
+- Ivy Zhang (MSKCC)
 
